@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rudrawebapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+559f7f5fa332df993d814d553c396cb5144c85c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb9c9001be5d876d42fbc43ed279e29bb672674")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rudrawebapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rudrawebapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
