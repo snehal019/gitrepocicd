@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include=".github\workflows\dotnet-deploy.yml" />
+  </ItemGroup>
+
 </Project>
